@@ -1,5 +1,5 @@
 <p align="center">
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=welcome%&fontSize=100)
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=Welcome&fontSize=70" />
 </p>
 
 <h3 align="center">👩‍💻 Hi! Park Jin Hyun👩‍💻</h3>
